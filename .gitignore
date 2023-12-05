@@ -1,1 +1,4 @@
 files/
+vendor/
+.tmp/
+error_log
